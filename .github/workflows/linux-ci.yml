@@ -1,6 +1,6 @@
 name: Linux-CI
 on:
-  workflow-dispatch:
+  workflow_dispatch:
   push:
     branches: [master]
   pull_request:
